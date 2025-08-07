@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p43162-e177398.adobeaemcloud.com/bin/franklin.delivery/lovelymandal16/pre-release-testing/main
+    type: "markup"
+    suffix: ".html"
